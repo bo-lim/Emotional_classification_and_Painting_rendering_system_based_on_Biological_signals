@@ -1,7 +1,7 @@
 
 # Emotional classification and Painting rendering system based on Biological signals
 
-[Paper](https://drive.google.com/file/d/10U2h2FI7Werj9rdcbjAglw2g9R5F3Yvl/view?usp=sharing) | [Project](https://drive.google.com/file/d/1KKKzKKXDGYLnVxo6IKglSMEkLFIPi1No/view?usp=sharing) | [Presentation](https://drive.google.com/file/d/1vdqw6_wS0JVksHec_CEPYjCppfYjO90Z/view?usp=sharing)
+[Paper](https://github.com/bo-lim/Emotional_classification_and_Painting_rendering_system_based_on_Biological_signals/blob/main/%5BCUAI%5D동계컨퍼런스_short%20paper.pdf) | [Project](https://drive.google.com/file/d/1KKKzKKXDGYLnVxo6IKglSMEkLFIPi1No/view?usp=sharing) | [Presentation](https://drive.google.com/file/d/1vdqw6_wS0JVksHec_CEPYjCppfYjO90Z/view?usp=sharing)
 
 **This repository contains source codes which used for "Final Project for CUAI 3rd Conference".**
 
